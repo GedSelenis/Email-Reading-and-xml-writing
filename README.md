@@ -4,11 +4,12 @@ To run this script you will need to have "Trucking info.msg" file that data is g
 
 Assumtions:
 
+```
 The user has downloaded mail file
 The mail file is structured as in the example "Trucking info.msg" file
 There is only one truck in each mail
 There can be many pallets in each mail
-
+```
 
 Data structure example: 
 
