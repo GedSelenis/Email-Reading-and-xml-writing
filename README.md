@@ -8,13 +8,13 @@ There is only one truck in each mail
 There can be many pallets in each mail
 
 
-Data structure example:
-Truck info:
-NamePlate:EBF454
-LoadCapacity:8
-Weight:6
-Pallet info:
-AmountOfPallets:3
-Goods:CocaCola
-BIN:[25485466,13132486,24584687]
-Weight:326
+Data structure example: 
+Truck info: 
+NamePlate:EBF454 
+LoadCapacity:8 
+Weight:6 
+Pallet info: 
+AmountOfPallets:3 
+Goods:CocaCola 
+BIN:[25485466,13132486,24584687] 
+Weight:326 
