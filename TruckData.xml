@@ -1,0 +1,24 @@
+<TruckInfo>
+	<Truck>
+		<NamePlate>EBF454</NamePlate>
+		<LoadCapacity>8</LoadCapacity>
+		<Weight>6</Weight>
+	</Truck>
+	<Pallets>
+		<Pallet>
+			<Goods>CocaCola</Goods>
+			<BIN>25485466</BIN>
+			<Weight>326</Weight>
+		</Pallet>
+		<Pallet>
+			<Goods>CocaCola</Goods>
+			<BIN>13132486</BIN>
+			<Weight>326</Weight>
+		</Pallet>
+		<Pallet>
+			<Goods>CocaCola</Goods>
+			<BIN>24584687</BIN>
+			<Weight>326</Weight>
+		</Pallet>
+	</Pallets>
+</TruckInfo>
