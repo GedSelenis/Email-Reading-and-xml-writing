@@ -122,7 +122,11 @@ def ExportDataToXML(file_name):
         tree.write(files)
 
 if __name__=="__main__":
+    print("Reading email file")
     ReadAllFile(DataFileName)
+    print("Reading data from email file")
     ReadDataFromFile()
+    print("Exporting data to XML file")
     ExportDataToXML(XMLFileName)
-    print(TruckInfo.weight)
+    print("Successfully completed")
+    input("Press Enter to continue...")
